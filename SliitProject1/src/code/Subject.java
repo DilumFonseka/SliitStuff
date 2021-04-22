@@ -1,3 +1,4 @@
+package code;
 
 public class Subject {
 private String subName;
